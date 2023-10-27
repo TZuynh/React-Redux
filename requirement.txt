@@ -1,0 +1,3 @@
+nội dung:
+- thiết kế trang chủ (trang tin tức) như hình: phân tích và chia các component cho hợp lý
+- thiết kế cấu trúc dữ liệu (tĩnh) cho từng component

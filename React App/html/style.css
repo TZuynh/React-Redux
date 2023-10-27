@@ -1,0 +1,207 @@
+.main-gio_hang{
+    margin: 5px;
+    background-color: black;
+    color: white;
+}
+.header{
+    border: 1px solid white;
+    background-color: firebrick;
+    margin: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.info-product{
+    border: 3px solid white;
+    text-align: center;
+}
+.img-product{
+    flex: 20%;
+}
+.img{
+    width: 50%;
+}
+.sl{
+    width: 25px;
+}
+.btn-edit{
+    background-color: #FFC107;
+    color: black;
+    border-radius: 5px;
+    padding: 6px 12px;
+}
+.btn-delete{
+    background-color: #DC3545;
+    color: white;
+    border-radius: 5px;
+    padding: 6px 12px;
+}
+.btn-total{
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    padding: 16px 32px;
+    font-weight: bold;
+
+    border: 1px solid white;
+}
+.btn-total:hover{
+    background-color: black;
+}
+.btn-rebuy{
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    padding: 16px 32px;
+    margin: 5px;
+    font-weight: bold;
+    border: 1px solid white;
+}
+.btn-rebuy:hover{
+    background-color: black;
+}
+.total-right-btn{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+.font-login{
+    color: rgb(0, 0, 0);
+    font-family: 'Courier New', Courier, monospace;
+}
+.login-item{
+    text-align: center;
+    margin: 50px;
+}
+.form-control{
+    width: 300px;
+    height: 30px;
+    margin: 10px;
+}
+.justify-content-center{
+    text-align: center;
+}
+.btn-signIn{
+    background-color: rgb(0, 111, 222);
+    color: white;
+    border-radius: 5px;
+    padding: 16px 32px;
+    width: 260px;
+    margin: 5px;
+    font-weight: bold;
+    border: 1px solid white;
+    margin-bottom: 210px;
+    text-align: center;
+}
+.btn-signIn:hover{
+    background-color: aliceblue;
+    color: black;
+    border: 1px solid black;
+}
+.form-check{
+    margin-left: 530px;
+    display: flex;
+}
+.forgot-login{
+    color: rgb(0, 102, 255);
+    font-weight: bold;
+    text-decoration: none;
+    display: flex;
+    margin-left: 720px;
+}
+.text-center{
+    text-align: center;
+    margin-top: -200px;
+}
+.register-login{
+    color: rgb(0, 102, 255);
+    font-weight: bold;
+    text-decoration: none;
+}
+
+
+.register-item{
+    text-align: center;
+}
+.form-check-register{
+    margin-left: 590px;
+    display: flex;
+}
+.btn-register{
+    background-color: rgb(0, 111, 222);
+    color: white;
+    border-radius: 5px;
+    padding: 16px 32px;
+    width: 240px;
+    margin: 5px;
+    font-weight: bold;
+    border: 1px solid white;
+    margin-bottom: 190px;
+    text-align: center;
+}
+
+
+.main-header-details{
+    flex-wrap: wrap;
+    display: flex;
+
+}
+.header-product-details{
+    width: 600px;
+    margin-top: -8px;
+    margin: -10px;
+    margin-left: 10px;
+}
+.sale-product-details{
+    width: 195lvh;
+    height: 40px;
+    background-color: rgb(2, 51, 51);
+    border: 1px solid black;
+    text-align: center;
+    font-weight: bold;
+    color: rgb(255, 8, 8);
+}
+.img-product-details img{
+    margin: 15px;
+    width: 150px;
+    text-align: left;
+}
+.search-product{
+    border-radius: 40px;
+    background-color: chocolate;
+    font-weight: bold;
+}
+.info-product-details{
+    text-align: center;
+}
+.info-product{
+    border: 1px solid black;
+    text-align: left;
+    flex-wrap: wrap-reverse;
+    margin: 15px;
+    width: 200px;
+}
+.size-product{
+    text-align: left;
+    margin: 15px;
+}
+.amount-product-details{
+    text-align: left;
+    margin: 15px;
+}
+.btn-buyProduct {
+    text-align: left;
+    margin: 15px;
+}
+.btn-buyNow{
+    background-color: #DC3545;
+    border: gold;
+    font-weight: bold;
+    padding: 10px;
+    color: white;
+}
+.tilte-product-details{
+    text-align: center;
+    width: 200px;
+}
